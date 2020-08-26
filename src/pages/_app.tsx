@@ -20,7 +20,7 @@ body, #__next {
 
 #__next {
   display: grid;
-  grid-template-columns: 60px 1fr;
+  grid-template-columns: 88px 1fr;
   grid-template-rows: 60px 1fr;
 }
 `;

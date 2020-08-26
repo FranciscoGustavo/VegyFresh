@@ -1,7 +1,11 @@
+import Nav from '@/molecules/Nav';
+
 import { CSSNavbar } from './styles';
 
 const Navbar = () => (
-  <CSSNavbar />
+  <CSSNavbar>
+    <Nav />
+  </ CSSNavbar>
 );
 
 export default Navbar;
