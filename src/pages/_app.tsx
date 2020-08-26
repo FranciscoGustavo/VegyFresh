@@ -10,6 +10,8 @@ const GlobalStyles = createGlobalStyle`
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
 }
 
 body, #__next {
@@ -21,7 +23,7 @@ body, #__next {
 #__next {
   display: grid;
   grid-template-columns: 88px 1fr;
-  grid-template-rows: 60px 1fr;
+  grid-template-rows: 88px 1fr;
 }
 `;
 
