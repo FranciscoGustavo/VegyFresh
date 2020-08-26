@@ -1,5 +1,7 @@
+import FormLogin from '@/organisms/FormLogin';
+
 const TemplateLogin = () => (
-  <h1>HOLA</h1>
+ <FormLogin />
 );
 
 export default TemplateLogin;
